@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}(c) Francesco Capodanno 2015
+${licensePrefix}Tutti i diritti sono riservati agli autori${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
